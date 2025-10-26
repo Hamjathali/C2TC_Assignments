@@ -10,7 +10,8 @@ class Student {
  }
 }
 
-//Class Commission
+
+//Class Commissions
 class Commission {
  // Data Members
  String name;
