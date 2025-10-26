@@ -69,5 +69,6 @@ public class Main {
      Commission c1 = new Commission();
      c1.acceptDetails();
      c1.calculateCommission();
+    
  }
 }
